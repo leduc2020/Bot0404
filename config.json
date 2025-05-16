@@ -3,7 +3,7 @@
     "notiUnsend": 10,
     "iconUnsend": {
         "status": true,
-        "icon": "👍"
+        "icon": "♥️"
     },
     "NOTIFICATION": true,
     "language": "vi",
@@ -30,16 +30,16 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "TDS_TOKEN": "TDS0nI2IXZ2V2ciojIyVmdlNnIsISOwAzayFGRiojIyV2c1Jye",
-    "BOTNAME": "𝕊𝕒𝕥𝕠𝕣𝕦",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/wind.009",
-    "PREFIX": "•",
+    "BOTNAME": "Yuz",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/SpeedTunnel/",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100029378752728",
-        "61568252515454"
+        "61568443432899",
+        ""
     ],
     "NDH": [
-        "100029378752728",
-        "61568252515454"
+        "61568443432899",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
